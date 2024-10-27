@@ -37,3 +37,28 @@ A dynamic blogging platform that enables users to create, share, and manage blog
   - Express.js
   - MongoDB
   - JWT
+
+## Getting Started
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/blogging-site.git
+   ```
+
+2. **Navigate to the Project Directory**
+   ```bash
+   cd blogging-site
+   ```
+
+3. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+4. **Set Up Environment Variables**
+   - Create a `.env` file with the required configuration (e.g., database URI, JWT secret).
+
+5. **Run the Development Server**
+   ```bash
+   npm run dev
+   ```
