@@ -12,7 +12,7 @@ Mentor: Muzammil Ahmed  <Br/>
 
 ## Project Description
 
-A dynamic blogging platform that enables users to create, share, and manage blog posts. Built with the MERN stack, this project focuses on user experience, security, and seamless interaction through features like real-time chat and rich text editing.
+A dynamic blogging platform Snow that enables users to create, share, and manage blog posts. Built with the MERN stack, this project focuses on user experience, security, and seamless interaction through features like real-time chat and rich text editing.
 
 ### Key Features
 
@@ -62,3 +62,8 @@ A dynamic blogging platform that enables users to create, share, and manage blog
    ```bash
    npm run dev
    ```
+
+## Images of Project
+
+![image](https://github.com/user-attachments/assets/80303817-92c9-49de-bf65-c555e9ec2189)
+
